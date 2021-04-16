@@ -1,2 +1,2 @@
-# houdimi-practice
-houdimi-practice
+# houdini-practice
+houdini-practice
